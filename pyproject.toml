@@ -1,7 +1,7 @@
 [project]
 name = "rail"
 version = "0.1.0"
-description = "A Python library for Indian Railways train search via NTES and IRCTC"
+description = "Programmatic access to Indian Railways data with a CLI and MCP server. Search trains between stations, check seat availability by class and quota, look up PNR status, and get live running status — powered by NTES and IRCTC APIs."
 authors = [
     { name = "securitylamb" }
 ]
@@ -22,12 +22,8 @@ classifiers = [
 ]
 
 dependencies = [
-    "babel>=2.17.0",
     "curl-cffi>=0.7.4",
-    "httpx>=0.28.1",
-    "plotext>=5.3.2",
     "pydantic>=2.10.4",
-    "python-dotenv>=1.0.1",
     "ratelimit>=2.2.1",
     "tenacity>=9.0.0",
     "typer>=0.15.1",
@@ -44,14 +40,11 @@ all = [
     "rail[mcp]",
 ]
 dev = [
-    "mkdocs-material[imaging]>=9.5.49",
-    "mkdocstrings[python]>=0.27.0",
     "pytest>=8.3.4",
     "pytest-asyncio>=0.25.2",
     "pytest-xdist>=3.6.1",
     "pytest-cov>=6.0.0",
     "ruff>=0.8.4",
-    "twine>=6.0.0",
 ]
 
 [project.scripts]
@@ -60,8 +53,8 @@ rail-mcp = "rail.mcp._entry:run"
 rail-mcp-http = "rail.mcp._entry:run_http"
 
 [project.urls]
-Homepage = "https://github.com/securitylamb/rail"
-Repository = "https://github.com/securitylamb/rail"
+Homepage = "https://github.com/SharmaVrishab/rail"
+Repository = "https://github.com/SharmaVrishab/rail"
 
 [build-system]
 requires = ["hatchling"]
@@ -81,7 +74,6 @@ line-length = 100
 indent-width = 4
 include = [
     "rail/**/*.py",
-    "examples/**/*.py",
     "tests/**/*.py",
     "scripts/**/*.py",
 ]
@@ -105,15 +97,7 @@ select = [
 ]
 ignore = ["D100", "D104", "D203", "D213"]
 
-# Per-file ignores for examples
 [tool.ruff.lint.per-file-ignores]
-"examples/**/*.py" = [
-    "D101", # Missing docstring in public class
-    "D102", # Missing docstring in public method
-    "D103", # Missing docstring in public function
-    "D401", # First line should be in imperative mood (examples use descriptive docstrings)
-    "T201", # print found (examples are meant to print output)
-]
 "tests/**/*.py" = [
     "D101", # Missing docstring in public class
     "D102", # Missing docstring in public method
