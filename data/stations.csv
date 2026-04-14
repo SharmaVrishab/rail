@@ -1,0 +1,176 @@
+code,name,city,state
+NDLS,New Delhi Railway Station,New Delhi,Delhi
+DLI,Old Delhi Railway Station,Delhi,Delhi
+NZM,Hazrat Nizamuddin,New Delhi,Delhi
+DEE,Delhi Sarai Rohilla,Delhi,Delhi
+ANVT,Anand Vihar Terminal,Delhi,Delhi
+BCT,Mumbai Central,Mumbai,Maharashtra
+CSTM,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Maharashtra
+LTT,Lokmanya Tilak Terminus,Mumbai,Maharashtra
+DR,Dadar,Mumbai,Maharashtra
+BRC,Vadodara Junction,Vadodara,Gujarat
+ADI,Ahmedabad Junction,Ahmedabad,Gujarat
+ST,Surat,Surat,Gujarat
+BVI,Borivali,Mumbai,Maharashtra
+VAPI,Vapi,Vapi,Gujarat
+HWH,Howrah Junction,Kolkata,West Bengal
+KOAA,Kolkata,Kolkata,West Bengal
+SDAH,Sealdah,Kolkata,West Bengal
+MAS,Chennai Central,Chennai,Tamil Nadu
+MS,Chennai Egmore,Chennai,Tamil Nadu
+MBS,Madurai Junction,Madurai,Tamil Nadu
+CBE,Coimbatore Junction,Coimbatore,Tamil Nadu
+TVC,Thiruvananthapuram Central,Thiruvananthapuram,Kerala
+ERS,Ernakulam Junction,Kochi,Kerala
+SBC,KSR Bengaluru City Junction,Bengaluru,Karnataka
+YPR,Yesvantpur Junction,Bengaluru,Karnataka
+UBL,Hubballi Junction,Hubballi,Karnataka
+MYS,Mysuru Junction,Mysuru,Karnataka
+HYB,Hyderabad Deccan,Hyderabad,Telangana
+SC,Secunderabad Junction,Secunderabad,Telangana
+KCG,Kacheguda,Hyderabad,Telangana
+PUNE,Pune Junction,Pune,Maharashtra
+NGP,Nagpur Junction,Nagpur,Maharashtra
+DD,Daund Junction,Daund,Maharashtra
+NED,Nanded,Nanded,Maharashtra
+AWB,Aurangabad,Aurangabad,Maharashtra
+LKO,Lucknow Charbagh,Lucknow,Uttar Pradesh
+CNB,Kanpur Central,Kanpur,Uttar Pradesh
+ALD,Prayagraj Junction,Prayagraj,Uttar Pradesh
+BSB,Varanasi Junction,Varanasi,Uttar Pradesh
+GKP,Gorakhpur Junction,Gorakhpur,Uttar Pradesh
+AGC,Agra Cantonment,Agra,Uttar Pradesh
+MTJ,Mathura Junction,Mathura,Uttar Pradesh
+PNBE,Patna Junction,Patna,Bihar
+RJPB,Rajendra Nagar,Patna,Bihar
+MFP,Muzaffarpur Junction,Muzaffarpur,Bihar
+GYA,Gaya Junction,Gaya,Bihar
+HJP,Hajipur Junction,Hajipur,Bihar
+JP,Jaipur Junction,Jaipur,Rajasthan
+JU,Jodhpur Junction,Jodhpur,Rajasthan
+AII,Ajmer Junction,Ajmer,Rajasthan
+BKN,Bikaner Junction,Bikaner,Rajasthan
+UDZ,Udaipur City,Udaipur,Rajasthan
+KOTA,Kota Junction,Kota,Rajasthan
+BBS,Bhubaneswar,Bhubaneswar,Odisha
+PURI,Puri,Puri,Odisha
+CTC,Cuttack,Cuttack,Odisha
+SBP,Sambalpur Road,Sambalpur,Odisha
+ROU,Rourkela,Rourkela,Odisha
+GHY,Guwahati,Guwahati,Assam
+DBRG,Dibrugarh,Dibrugarh,Assam
+AGT,Agartala,Agartala,Tripura
+SHC,Silchar,Silchar,Assam
+NJP,New Jalpaiguri,Siliguri,West Bengal
+MLDT,Malda Town,Malda,West Bengal
+BGP,Bhagalpur,Bhagalpur,Bihar
+MUV,Manduadih,Varanasi,Uttar Pradesh
+DDN,Dehradun,Dehradun,Uttarakhand
+HW,Haridwar Junction,Haridwar,Uttarakhand
+RK,Rishikesh,Rishikesh,Uttarakhand
+INDB,Indore Junction,Indore,Madhya Pradesh
+BPL,Bhopal Junction,Bhopal,Madhya Pradesh
+GWL,Gwalior Junction,Gwalior,Madhya Pradesh
+JBP,Jabalpur Junction,Jabalpur,Madhya Pradesh
+UJN,Ujjain Junction,Ujjain,Madhya Pradesh
+RIG,Raigarh,Raigarh,Chhattisgarh
+R,Raipur Junction,Raipur,Chhattisgarh
+BSP,Bilaspur Junction,Bilaspur,Chhattisgarh
+JSM,Jaisalmer,Jaisalmer,Rajasthan
+ABR,Abu Road,Abu Road,Rajasthan
+MTD,Mount Abu,Mount Abu,Rajasthan
+SVDK,Shri Mata Vaishno Devi Katra,Katra,Jammu and Kashmir
+JAT,Jammu Tawi,Jammu,Jammu and Kashmir
+ASR,Amritsar Junction,Amritsar,Punjab
+LDH,Ludhiana Junction,Ludhiana,Punjab
+CDG,Chandigarh,Chandigarh,Punjab
+UMB,Ambala Cantonment,Ambala,Haryana
+KLK,Kalka,Kalka,Haryana
+SRE,Saharanpur,Saharanpur,Uttar Pradesh
+RKSH,Roorkee,Roorkee,Uttarakhand
+MRJ,Miraj Junction,Miraj,Maharashtra
+KOP,Kolhapur,Kolhapur,Maharashtra
+SUR,Solapur,Solapur,Maharashtra
+PVR,Panvel,Panvel,Maharashtra
+THVD,Thivim,Thivim,Goa
+MAO,Madgaon Junction,Margao,Goa
+VSG,Vasco-Da-Gama,Vasco da Gama,Goa
+MNG,Mangaluru Junction,Mangaluru,Karnataka
+MAJN,Mangaluru Central,Mangaluru,Karnataka
+CLT,Kozhikode,Kozhikode,Kerala
+SRR,Shoranur Junction,Shoranur,Kerala
+TCR,Thrissur,Thrissur,Kerala
+PGT,Palakkad Junction,Palakkad,Kerala
+NCJ,Nagercoil Junction,Nagercoil,Tamil Nadu
+MDU,Madurai Junction,Madurai,Tamil Nadu
+ED,Erode Junction,Erode,Tamil Nadu
+SA,Salem Junction,Salem,Tamil Nadu
+TPJ,Tiruchirappalli Junction,Tiruchirappalli,Tamil Nadu
+KPD,Katpadi Junction,Vellore,Tamil Nadu
+MV,Mughalsarai Junction,Chandauli,Uttar Pradesh
+DDU,Pt. Deen Dayal Upadhyaya Junction,Chandauli,Uttar Pradesh
+MGS,Mughal Sarai,Varanasi,Uttar Pradesh
+SPJ,Samastipur Junction,Samastipur,Bihar
+DBG,Darbhanga Junction,Darbhanga,Bihar
+SEE,Sonpur Junction,Sonpur,Bihar
+HPU,Hapur,Hapur,Uttar Pradesh
+MB,Moradabad Junction,Moradabad,Uttar Pradesh
+BE,Bareilly Junction,Bareilly,Uttar Pradesh
+NDAE,Nandedh Aemd Stn,Nanded,Maharashtra
+RJT,Rajkot Junction,Rajkot,Gujarat
+JAM,Jamnagar,Jamnagar,Gujarat
+PBR,Porbandar,Porbandar,Gujarat
+OK,Okha,Okha,Gujarat
+DHD,Dwarka,Dwarka,Gujarat
+BDTS,Bandra Terminus,Mumbai,Maharashtra
+GS,Ghatsila,Ghatsila,Jharkhand
+RNC,Ranchi Junction,Ranchi,Jharkhand
+HTE,Hatia,Ranchi,Jharkhand
+JSME,Jasidih Junction,Deoghar,Jharkhand
+PNME,Patna Sahib,Patna,Bihar
+DHN,Dhanbad Junction,Dhanbad,Jharkhand
+GMO,Gomoh Junction,Bokaro,Jharkhand
+BKSC,Bokaro Steel City,Bokaro,Jharkhand
+ASN,Asansol Junction,Asansol,West Bengal
+BWN,Bardhaman Junction,Bardhaman,West Bengal
+BAND,Bandel Junction,Hooghly,West Bengal
+KGP,Kharagpur Junction,Kharagpur,West Bengal
+BHC,Balharshah,Chandrapur,Maharashtra
+WRD,Wardha Junction,Wardha,Maharashtra
+AMLA,Amla Junction,Betul,Madhya Pradesh
+ET,Itarsi Junction,Hoshangabad,Madhya Pradesh
+KTE,Katni Junction,Katni,Madhya Pradesh
+MKP,Manikpur Junction,Chitrakoot,Uttar Pradesh
+STA,Satna,Satna,Madhya Pradesh
+RWA,Raksia,Rewa,Madhya Pradesh
+VGLB,Virangana Lakshmibai,Jhansi,Uttar Pradesh
+JHS,Jhansi Junction,Jhansi,Uttar Pradesh
+LJN,Lucknow Junction NR,Lucknow,Uttar Pradesh
+GD,Gonda Junction,Gonda,Uttar Pradesh
+BUI,Bahraich,Bahraich,Uttar Pradesh
+SLN,Sultanpur,Sultanpur,Uttar Pradesh
+FD,Faizabad Junction,Ayodhya,Uttar Pradesh
+AY,Ayodhya Junction,Ayodhya,Uttar Pradesh
+BSK,Basti,Basti,Uttar Pradesh
+KLD,Khalilabad,Sant Kabir Nagar,Uttar Pradesh
+TDL,Tundla Junction,Firozabad,Uttar Pradesh
+FBD,Firozabad,Firozabad,Uttar Pradesh
+AGA,Agra Fort,Agra,Uttar Pradesh
+ALJN,Aligarh Junction,Aligarh,Uttar Pradesh
+GZB,Ghaziabad Junction,Ghaziabad,Uttar Pradesh
+HH,Hapur,Hapur,Uttar Pradesh
+SPN,Sahibabad,Ghaziabad,Uttar Pradesh
+BFP,Bulandshahr,Bulandshahr,Uttar Pradesh
+ETW,Etawah,Etawah,Uttar Pradesh
+PBH,Phaphamau Junction,Prayagraj,Uttar Pradesh
+JNHU,Janghai Junction,Prayagraj,Uttar Pradesh
+MAN,Manauri,Prayagraj,Uttar Pradesh
+CHRM,Chheoram,Raipur,Chhattisgarh
+DGG,Dongargarh,Rajnandgaon,Chhattisgarh
+RAJ,Rajnandgaon,Rajnandgaon,Chhattisgarh
+DURG,Durg Junction,Durg,Chhattisgarh
+HBJ,Habibganj,Bhopal,Madhya Pradesh
+VDA,Vidisha,Vidisha,Madhya Pradesh
+SGA,Sagar,Sagar,Madhya Pradesh
+DAM,Damoh,Damoh,Madhya Pradesh
+SGO,Saugor,Sagar,Madhya Pradesh
